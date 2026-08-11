@@ -1,0 +1,18 @@
+.pulumi/
+
+# Stack files may contain encrypted credentials and local secrets-provider data.
+Pulumi.*.yaml
+
+# Local build and coverage artifacts.
+ovh-pulumi
+*.out
+*.test
+*.prof
+
+# CI tooling downloads.
+tools/
+
+# Editor and OS noise.
+.idea/
+.vscode/
+.DS_Store

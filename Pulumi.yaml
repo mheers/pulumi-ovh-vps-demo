@@ -1,0 +1,3 @@
+name: ovh-pulumi
+runtime: go
+description: OVHcloud VPS-1 2027 with a persistent 50 GB additional disk
