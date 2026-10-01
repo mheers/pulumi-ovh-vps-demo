@@ -3,7 +3,7 @@ module github.com/heers/iac/ovh-pulumi
 go 1.25.0
 
 require (
-	github.com/ovh/pulumi-ovh/sdk/v2 v2.17.0
+	github.com/ovh/pulumi-ovh/sdk/v2 v2.21.0
 	github.com/pulumi/pulumi-command/sdk v1.2.1
 	github.com/pulumi/pulumi/sdk/v3 v3.214.0
 )
